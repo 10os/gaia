@@ -1,16 +1,7 @@
 {
   "onlinesupport": {
-    "href": "http://support.mozilla.org/",
+    "href": "http://support.10allday.com/",
     "title": "Mozilla Support"
-  },
-  "callsupport": [
-    {
-      "href": "tel:123",
-      "title": "test123"
-    },
-    {
-      "href": "tel:321",
-      "title": "test321"
-    }
+  }
   ]
 }
