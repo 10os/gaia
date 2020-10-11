@@ -1,13 +1,13 @@
 {
   "bookmarks": [
     {
-      "title": "Mozilla Marketplace",
-      "uri": "https://marketplace.firefox.com",
+      "title": "10allday Marketplace",
+      "uri": "https://marketplace.10allday.com",
       "iconPath": "mobizilla/mobizilla_market_icon.png"
     },
     {
       "title": "Firefox for Android",
-      "uri": "http://www.mozilla.org/en-US/firefox/android",
+      "uri": "http://10allday.com/en-US/firefox/android",
       "iconPath": "mobizilla/mobizilla_firefox.png"
     }
   ]
